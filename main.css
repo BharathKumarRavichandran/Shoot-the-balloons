@@ -49,3 +49,25 @@ canvas{
 #rulehead{
 	font-size: 40px;
 }
+
+footer{
+	margin-top: 10px;
+}
+
+#foot{
+	color: black;
+	text-align: center;
+	font-size: 18px;
+	letter-spacing: 4px;
+	font-weight: bold;
+}
+
+#heart{
+	size: 200%;
+	color: red;
+}
+
+#nameLink{
+	text-decoration: none;
+	color: darkblue;
+}
