@@ -17,10 +17,10 @@ var spaceTap =0; //No. of Key presses
 var nArrows = 15; //No. of Arrows
 var pause = false;
 
-var gameStart = new Audio('gameStart.wav');
-var bowRelease = new Audio('bowRelease.mp3');
-var balloonPop = new Audio('balloonPop.wav');
-var gameOver = new Audio('gameOver.mp3'); 
+var gameStart = new Audio('audio/gameStart.wav');
+var bowRelease = new Audio('audio/bowRelease.mp3');
+var balloonPop = new Audio('audio/balloonPop.wav');
+var gameOver = new Audio('audio/gameOver.mp3'); 
 
 gameStart.play();
 
